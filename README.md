@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ryan Paul
-- 👀 I’m interested in Beckend Development
+- 👀 I’m interested in Backend Development
 - 🌱 I’m currently learning "React and Node.js"
 
 <!---
